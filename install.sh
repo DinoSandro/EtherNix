@@ -14,7 +14,6 @@ if command -v git &> /dev/null; then
 else
   echo "Git is not installed. Proceeding to install it"
   nix-shell -p git
-  exit
 fi
 
 echo "-----"
@@ -59,4 +58,4 @@ NIX_CONFIG="experimental-features = nix-command flakes"
 echo "-----"
 
 sudo nixos-rebuild switch --flake /etc/nixos/#${distro}
-sudo reboot now
+#sudo reboot now
