@@ -42,7 +42,7 @@ sudo nixos-generate-config --show-hardware-config > ./hosts/plasma/hardware-conf
 sudo nixos-generate-config --show-hardware-config > ./hosts/hyprland/hardware-configuration.nix
 
 echo "-----"
-
+rm install.sh
 mv .config ~/
 mv .BurpSuite ~/
 sudo mv * /etc/nixos/
