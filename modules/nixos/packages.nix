@@ -41,6 +41,8 @@
 		john
 		python311Packages.sqlmap
 		thc-hydra
+		#(pkgs.burpsuite.override { proEdition = true; })
+		(pkgs.callPackage ./burpsuite.nix {})
 
 
 
@@ -78,5 +80,7 @@
 		git
 		sublime4
 		open-vm-tools
+		starship
 	];
+
 }

@@ -11,10 +11,17 @@
   };
 
   outputs = { self, nixpkgs, ... }@inputs: {
-    nixosConfigurations.default = nixpkgs.lib.nixosSystem {
+    nixosConfigurations.hyprland = nixpkgs.lib.nixosSystem {
       specialArgs = {inherit inputs;};
       modules = [
-        ./hosts/default/configuration.nix
+        ./hosts/hyprland/configuration.nix
+        inputs.home-manager.nixosModules.default
+      ];
+      };
+      nixosConfigurations.plasma = nixpkgs.lib.nixosSystem {
+      specialArgs = {inherit inputs;};
+      modules = [
+        ./hosts/plasma/configuration.nix
         inputs.home-manager.nixosModules.default
       ];
     };
