@@ -33,7 +33,7 @@ echo "-----"
 
 echo "Cloning & Entering EtherNix Repository"
 git clone https://github.com/DinoSandro/EtherNix.git
-cd EtherNix || exit
+cd EtherNix 
 
 echo "-----"
 
