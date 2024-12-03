@@ -1,0 +1,13 @@
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Wallpapers/test
+Name1[$e]=test
+
+[SideBar]
+InformationSplitterSizes=0,0

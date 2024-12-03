@@ -1,0 +1,18 @@
+[Desktops]
+Id_1=425a2432-b0c0-40fd-b9f1-7e631575f2b6
+Id_2=f75582f8-3f3c-4311-8369-aa6946e9a2c8
+Id_3=3a7134f8-34d2-436c-97d8-ceaf5e551ab1
+Id_4=ce076a05-001e-41ad-91e9-cd4b1d26b279
+Name_3=New Desktop
+Name_4=New Desktop
+Number=4
+Rows=1
+
+[Tiling]
+padding=4
+
+[Tiling][4c85f5bb-4dcb-5bec-8433-5c0e6860d679]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Xwayland]
+Scale=1
