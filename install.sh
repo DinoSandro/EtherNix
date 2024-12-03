@@ -47,8 +47,8 @@ sudo nixos-generate-config --show-hardware-config > ./hosts/hyprland/hardware-co
 
 echo "-----"
 rm EtherNix/install.sh
-mv EtherNix/.config ~/
-mv EtherNix/.BurpSuite ~/
+mv EtherNix/config ~/.config
+mv EtherNix/BurpSuite ~/.BurpSuite
 sudo mv EtherNix/* /etc/nixos/
 
 
