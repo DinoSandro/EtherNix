@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+r#!/usr/bin/env bash
 
 if [ -n "$(grep -i nixos < /etc/os-release)" ]; then
   echo "Verified this is NixOS."
@@ -33,7 +33,6 @@ echo "-----"
 
 echo "Cloning & Entering EtherNix Repository"
 git clone https://github.com/DinoSandro/EtherNix.git
-cd EtherNix 
 
 echo "-----"
 
@@ -48,10 +47,10 @@ sudo nixos-generate-config --show-hardware-config > ./hosts/plasma/hardware-conf
 sudo nixos-generate-config --show-hardware-config > ./hosts/hyprland/hardware-configuration.nix
 
 echo "-----"
-rm install.sh
-mv .config ~/
-mv .BurpSuite ~/
-sudo mv * /etc/nixos/
+rm EtherNix/install.sh
+mv EtherNix/.config ~/
+mv EtherNix/.BurpSuite ~/
+sudo mv EtherNix/* /etc/nixos/
 
 
 echo "Setting Required Nix Settings Then Going To Install"
