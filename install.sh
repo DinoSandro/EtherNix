@@ -37,6 +37,12 @@ cd EtherNix || exit
 
 echo "-----"
 
+installusername=$(echo $USER)
+sed -i "/^\s*username[[:space:]]*=[[:space:]]*\"/s/\"\(.*\)\"/\"$installusername\"/" ./flake.nix
+
+echo "-----"
+
+
 echo "Generating The Hardware Configuration"
 sudo nixos-generate-config --show-hardware-config > ./hosts/plasma/hardware-configuration.nix
 sudo nixos-generate-config --show-hardware-config > ./hosts/hyprland/hardware-configuration.nix
