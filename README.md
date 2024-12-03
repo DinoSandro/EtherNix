@@ -12,3 +12,12 @@ Whether you're an ethical hacker, a CTF competitor, or someone diving into the w
 
 Get ready to hack the planet with style and efficiency—Ethernix has you covered! 🌐💻
 
+# How to install
+
+📜 Script:
+This is the easiest and recommended way of starting out. The script is not meant to allow you to change every option that you can in the flake or help you install extra packages. It is simply here so you can get my configuration installed with as little chances of breakages!
+Simply copy this and run it:
+```
+nix-shell -p git curl
+sh <(curl -L https://raw.githubusercontent.com/DinoSandro/EtherNix/refs/heads/main/install.sh)
+```
