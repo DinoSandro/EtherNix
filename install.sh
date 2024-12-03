@@ -54,3 +54,4 @@ NIX_CONFIG="experimental-features = nix-command flakes"
 echo "-----"
 
 sudo nixos-rebuild switch --flake /etc/nixos/#${distro}
+sudo reboot now
