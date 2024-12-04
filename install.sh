@@ -49,10 +49,10 @@ echo "-----"
 rm EtherNix/install.sh
 sudo rm -rd ~/.config/*
 sudo rm -rd /etc/nixos/*
-mv EtherNix/config/* ~/.config/
+mv ~/EtherNix/config/* ~/.config/
 mkdir ~/.BurpSuite
-mv EtherNix/BurpSuite/* ~/.BurpSuite
-sudo mv EtherNix/* /etc/nixos/
+mv ~/EtherNix/BurpSuite/* ~/.BurpSuite
+sudo mv ~/EtherNix/* /etc/nixos/
 
 
 echo "Setting Required Nix Settings Then Going To Install"
