@@ -1,4 +1,4 @@
-r#!/usr/bin/env bash
+#!/usr/bin/env bash
 
 if [ -n "$(grep -i nixos < /etc/os-release)" ]; then
   echo "Verified this is NixOS."
@@ -46,7 +46,7 @@ sudo nixos-generate-config --show-hardware-config > ~/EtherNix/hosts/plasma/hard
 sudo nixos-generate-config --show-hardware-config > ~/EtherNix/hosts/hyprland/hardware-configuration.nix
 
 echo "-----"
-rm EtherNix/install.sh
+rm ~/EtherNix/install.sh
 sudo rm -rd ~/.config/*
 sudo rm -rd /etc/nixos/*
 mv ~/EtherNix/config/* ~/.config/
