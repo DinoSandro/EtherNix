@@ -55,7 +55,6 @@ mkdir ~/.BurpSuite
 mv ~/EtherNix/BurpSuite/* ~/.BurpSuite
 sudo rm -rd ~/EtherNix/BurpSuite
 sudo mv ~/EtherNix/* /etc/nixos/
-sudo rm -rd ~/EtherNix
 
 echo "Setting Required Nix Settings Then Going To Install"
 NIX_CONFIG="experimental-features = nix-command flakes"
@@ -63,4 +62,5 @@ NIX_CONFIG="experimental-features = nix-command flakes"
 echo "-----"
 
 sudo nixos-rebuild switch --flake /etc/nixos/#${distro}
+sudo rm -rd ~/EtherNix
 #sudo reboot now
