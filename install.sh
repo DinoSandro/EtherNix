@@ -32,11 +32,11 @@ echo "-----"
 
 echo "Cloning & Entering EtherNix Repository"
 git clone https://github.com/DinoSandro/EtherNix.git
-
+cd EtherNix
 echo "-----"
 
 installusername=$(echo $USER)
-sed -i "/^\s*username[[:space:]]*=[[:space:]]*\"/s/\"\(.*\)\"/\"$installusername\"/" ./flake.nix
+sed -i "/^\s*username[[:space:]]*=[[:space:]]*\"/s/\"\(.*\)\"/\"$installusername\"/" ~/EtherNix/flake.nix
 
 echo "-----"
 
