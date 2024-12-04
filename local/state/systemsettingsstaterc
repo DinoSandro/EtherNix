@@ -1,0 +1,11 @@
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Wallpapers/test
+Recent URLs[$e]=file:$HOME/Wallpapers/
+
+[MainWindow]
+1920x1080 screen: Height=650
+1920x1080 screen: Width=936
+
+[Open-with settings]
+CompletionMode=1
+History=

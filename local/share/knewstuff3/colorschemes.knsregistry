@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="112">
+  <name>Otto Color-schemes</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>jomada</author>
+  <homepage>https://store.kde.org/p/1358259</homepage>
+  <licence></licence>
+  <version>1.4</version>
+  <rating>79</rating>
+  <downloads>128361</downloads>
+  <installedfile>/home/idk/.local/share/color-schemes/Otto.colors</installedfile>
+  <id>1358259</id>
+  <releasedate>2024-11-16</releasedate>
+  <summary>Color scheme for Otto plasma theme  https://store.kde.org/p/1358262/</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/43/73/13/1358259/b391d27a6a69d2955851b106d1e2baf612694f7d1cfa7126643773d79c8362bf400e.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/43/73/13/1358259/b391d27a6a69d2955851b106d1e2baf612694f7d1cfa7126643773d79c8362bf400e.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MDU3NTg3NjQiLCJvIjoiMSIsInMiOiIzYzBhYTUxNTFiMzk1ODBmMDg0OGZhZDYxNzllMjBiNmUxNWMyYjFhZmZmYjdlOTcyNGFiNGVmNzNhY2YxZDNiYmJlYWI4MmU1YzYwOWY4YzdlNmJmN2E4OTliMmIzN2Q5ZTYyMDA4Mjg5ZTk3ODM2NTVkNjA1NjYzODMyYTViOSIsInQiOjE3MzI3MDY2NDUsInN0ZnAiOm51bGwsInN0aXAiOiIyMTcuMTMzLjYuMTg3In0.OhlI9tdKOXUkTho5mYzOblTP4G8ZBvomT53lSUi7cxE/Otto.colors.tar.gz</payload>
+  <tags>original-product,kde,linux,gplv3,colorscheme,color-schemes,plasma,theme,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

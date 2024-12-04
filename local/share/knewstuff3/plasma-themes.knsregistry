@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="104">
+  <name>Otto</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>jomada</author>
+  <homepage>https://store.kde.org/p/1358262</homepage>
+  <licence></licence>
+  <version>2.5</version>
+  <rating>86</rating>
+  <downloads>90399</downloads>
+  <installedfile>/home/idk/.local/share/plasma/desktoptheme/Otto/</installedfile>
+  <id>1358262</id>
+  <releasedate>2024-11-16</releasedate>
+  <summary>Dark plasma theme, with orange and yellow gradient tones.&lt;br />
+&lt;br />
+Otto Konsole color schemes: https://store.kde.org/p/1358261/&lt;br />
+&lt;br />
+Otto Kvantum theme: https://store.kde.org/p/1358260/&lt;br />
+&lt;br />
+Otto Color-schemes: https://store.kde.org/p/1358259/&lt;br />
+&lt;br />
+Otto Aurorae: https://store.kde.org/p/1414937/&lt;br />
+&lt;br />
+Otto wallpaper: https://store.kde.org/p/1358263/</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/43/73/13/1358262/plasma-logo.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/43/73/13/1358262/plasma-logo.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTY4MDgxNzkiLCJvIjoiMSIsInMiOiI0ZTJmYmVhODU0NGU5NDMwYmIyMWNmMDRlMTU4NDY1YmEwMDk3MjZlOTZmZWNiMTdmNDVkZDM0ZWQ1MDMzODQ2ZDI0NjRmMGY1MTBmODRhMTIxNDVhMjhlMDRkMjZhMmFiZTJjNWZiOWY1MDNhNjkzMTQ4NGU2ZTIyNDdlYWU0NSIsInQiOjE3MzI3MDY2NDYsInN0ZnAiOm51bGwsInN0aXAiOiIyMTcuMTMzLjYuMTg3In0.ARCZ3cdKsbuyr7yVuRLEtEZeKIxFGd1o-uyTU7NoNHE/Otto.tar.gz</payload>
+  <tags>kde,linux,gplv3,theme,unix,plasma,original-product,plasma##majorversion=5</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,10 @@
+{"timestamp":289391,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"can_load":"true","glean_timestamp":"1733217977616","path_key":"clean","loadfail_reason":"N/A"}}
+{"timestamp":289399,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"can_load":"true","path_key":"clean","glean_timestamp":"1733217977620","loadfail_reason":"N/A"}}
+{"timestamp":289404,"category":"session_restore","name":"shutdown_success_session_startup","extra":{"shutdown_ok":"false","glean_timestamp":"1733217977626","shutdown_reason":"N/A"}}
+{"timestamp":292473,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"required","glean_timestamp":"1733217980694"}}
+{"timestamp":294146,"category":"jsonfile","name":"load_autofillprofiles","extra":{"value":"","glean_timestamp":"1733217982368"}}
+{"timestamp":294475,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1733217982696"}}
+{"timestamp":295689,"category":"jsonfile","name":"load_logins","extra":{"value":"","glean_timestamp":"1733217983910"}}
+{"timestamp":295766,"category":"upgrade_dialog","name":"trigger_reason","extra":{"value":"not-major","glean_timestamp":"1733217983988"}}
+{"timestamp":315000,"category":"urlbar","name":"engagement","extra":{"n_results":"1","search_engine_default_id":"google-b-d","sap":"urlbar_newtab","glean_timestamp":"1733218003221","actions":"none","engagement_type":"enter","interaction":"pasted","n_words":"1","results":"url","search_mode":"","provider":"HeuristicFallback","groups":"heuristic","n_chars":"92","selected_position":"1","selected_result":"url"}}
+{"timestamp":323860,"category":"downloads","name":"added_file_extension","extra":{"glean_timestamp":"1733218012081","value":"png"}}

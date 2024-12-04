@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="706">
+  <name>Command Output [Plasma 6]</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>Zren</author>
+  <homepage>https://store.kde.org/p/2136636</homepage>
+  <licence></licence>
+  <version>14</version>
+  <rating>70</rating>
+  <downloads>29296</downloads>
+  <installedfile>/home/idk/.local/share/plasma/plasmoids/com.github.zren.commandoutput/</installedfile>
+  <id>2136636</id>
+  <releasedate>2024-04-30</releasedate>
+  <summary>Simple widget to print output of a command run every __ seconds.&lt;br />
+&lt;br />
+&lt;strong>Plasma 5:&lt;/strong> &lt;a href="https://store.kde.org/p/1166510/" target="_blank" rel="nofollow">https://store.kde.org/p/1166510/&lt;/a>&lt;br />
+&lt;br />
+v12 added experimental Support for Ansi Escape Colors (\033</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/43/39/56/2136636/logo.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/43/39/56/2136636/logo.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTQ1MTMwMDUiLCJvIjoiMSIsInMiOiIzZDJjN2UzZjc3MjEzYTZiNGU3YjlhNDkzNGQ5MTBlZjNkOTRlYWI3Zjc0NzZiMTA0YThkN2RjOTQyMGU5YTAwYjYyMzE2MTY0MjRlN2JlODM4OTZlZjBhZjhmZmJjNDkzYTJjZmJhYzEyMTI4ODRlZGIzNDcyYmQ5NjEyMGU4OSIsInQiOjE3MzI3MTEyNjIsInN0ZnAiOm51bGwsInN0aXAiOiIyMTcuMTMzLjYuMTg3In0.DhrAoMtveK9tIu6iLf2oStsA3r0Fb5eN9pGV7Y0Rbks/commandoutput-v14-plasma6-0.plasmoid</payload>
+  <tags>extension,unix,plasma##majorversion=6,plasma,original-product,linux,gplv2-later,kde,widget</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="706">
+  <name>IP Address Display for KDE Plasma</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>jennova</author>
+  <homepage>https://store.kde.org/p/2216429</homepage>
+  <licence></licence>
+  <version>0.7.5</version>
+  <rating>50</rating>
+  <downloads>139</downloads>
+  <installedfile>/home/idk/.local/share/plasma/plasmoids/org.kde.plasma.ipaddress/</installedfile>
+  <id>2216429</id>
+  <releasedate>2024-11-11</releasedate>
+  <summary>?? English&lt;br />
+&lt;br />
+IP Address Widget for KDE Plasma&lt;br />
+&lt;br />
+A sleek and efficient widget for KDE Plasma that displays both local and public IP addresses. This widget seamlessly integrates into your Plasma panel, providing real-time information about your network connectivity.&lt;br />
+&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/81/80/48/2216429/ethernet.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/81/80/48/2216429/ethernet.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MzEzMjkxMTIiLCJvIjoiMSIsInMiOiI2NDkyOTUyZDNhZjdmMGMyMmMzNTZlNThhNGEzYTUzN2UwNjEyNmU2MjY0OGE0ODQyZjQyMGFlMzE1YzhhN2EwMWQzMmEwMzFhNDA3MmFkZDE2YjU4ZWI5MWE4YzI1NmNkN2E2MWYwMzkxODYxYjI3MGRlYjc5N2FkN2FjYjE4NyIsInQiOjE3MzI3MDc2NDYsInN0ZnAiOm51bGwsInN0aXAiOiIyMTcuMTMzLjYuMTg3In0.GXrdljpDBeESM1mqcOZ317dJCcVbWOdLG192wflzkho/ipaddress.plasmoid</payload>
+  <tags>linux,monitor,flags,kde,gplv3,extension,network,widget,unix,plasma,plasma##majorversion=6,original-product,system</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="706">
+  <name>Panel Colorizer</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>luis-bocanegra</author>
+  <homepage>https://store.kde.org/p/2130967</homepage>
+  <licence></licence>
+  <version>1.2.0</version>
+  <rating>83</rating>
+  <downloads>15359</downloads>
+  <installedfile>/home/idk/.local/share/plasma/plasmoids/luisbocanegra.panel.colorizer/</installedfile>
+  <id>2130967</id>
+  <releasedate>2024-11-10</releasedate>
+  <summary>Fully-featured widget to bring Latte-Dock and WM status bar customization features to the default Plasma panel.&lt;br />
+&lt;br />
+&lt;strong>Presets&lt;/strong>&lt;br />
+* Create your own configuration presets&lt;br />
+* Restore defaults&lt;br />
+* Preset auto-loading&lt;br />
+* • Floating panel&lt;br />
+* •...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/67/61/06/2130967/panelscrop.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/67/61/06/2130967/panelscrop.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MzEyMTIyMzYiLCJvIjoiMSIsInMiOiIwMzk5ZWViNDk1NjdmNjljZjVjYTgzNTU3M2ZiM2EzMDMxZmJiZTAyZDFkZDA1YzFiYmZmNDA5MjJhNTA1NzdkZGYwMGRmOTM3MzA2ZTI0MWY5ODhkMjI5MjFkM2JkYThhYWEyOTIyOTMzZDU4ZWU4YWEzNDRjM2ViNzNjYzYwNyIsInQiOjE3MzI3MDc0MjEsInN0ZnAiOm51bGwsInN0aXAiOiIyMTcuMTMzLjYuMTg3In0.oGz0IaDqOPiovOpWJfA-ssYyGjkDwZEec1CtKYsuy78/plasmoid-panel-colorizer-v1.2.0.plasmoid</payload>
+  <tags>theme,unix,original-product,panel,plasma##majorversion=6,plasma,widget,customization,colors,extension,kde,lgplv3,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="706">
+  <name>Shutdown or Switch</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>davide-sd</author>
+  <homepage>https://store.kde.org/p/1288430</homepage>
+  <licence></licence>
+  <version>1.1.1</version>
+  <rating>66</rating>
+  <downloads>84919</downloads>
+  <installedfile>/home/idk/.local/share/plasma/plasmoids/org.kde.plasma.shutdownorswitch/</installedfile>
+  <id>1288430</id>
+  <releasedate>2024-03-21</releasedate>
+  <summary>Plasma 6 widget for quick accessing the leave options (shutdown, reboot, suspend, logout) or to quickly switch between different users. This is a customized version of the widget User Switcher created by Kai Uwe Broulik. It provides a few more configuration options. &lt;br />
+&lt;br />
+It provides a...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/52/56/44/1288430/d9291f8621d2120114f35a1ad379c14a1ea0.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/52/56/44/1288430/d9291f8621d2120114f35a1ad379c14a1ea0.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTEwMjY5NjUiLCJvIjoiMSIsInMiOiJmZDA2OGZjZmJiNWUzNGUyODM3ZmUwNjM5ZmRlOWRlNWZhNTA3NjA1ODgwNGFhYWMwOGRlMDdkMjFiMGExMTc2MmNjODY1Mzc4MmM2ZDA3ODBhZTVmYzEwODMyZTVkODg3NmEzOWQwNjc1N2VmOTM2MGZjZjA3YzNmOTQ0ZWJkNyIsInQiOjE3MzI3MDc1NTgsInN0ZnAiOm51bGwsInN0aXAiOiIyMTcuMTMzLjYuMTg3In0.FUHgkwTmy1bfL2dsS0v0yWVReAvdqcDmqIMcCEq2d1c/shutdownOrSwitch-plasma-6.plasmoid</payload>
+  <tags>linux,leave,kde,gplv2-later,extension,unix,user,plasma##majorversion=6,reboot,switcher,shutdown,plasma</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

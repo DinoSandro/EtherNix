@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
+  <bookmark href="file:///home/idk/Wallpapers/test" added="2024-11-25T09:48:35.043000Z" modified="2024-11-27T13:36:09.543000Z" visited="2024-11-27T13:36:09.543000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %u" modified="2024-11-25T09:48:35.043000Z" count="1"/>
+          <bookmark:application name="systemsettings" exec="systemsettings %f" modified="2024-11-27T13:36:09.543000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/nixos/configuration.nix" added="2024-11-25T10:18:35.808000Z" modified="2024-11-25T10:18:35.808000Z" visited="2024-11-25T10:18:35.808000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="sublime2" exec="sublime2 %f" modified="2024-11-25T10:18:35.808000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:///etc/nixos/" added="2024-11-25T13:48:25.465000Z" modified="2024-11-25T13:54:07.960000Z" visited="2024-11-25T13:54:07.960000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %u" modified="2024-11-25T13:54:07.960000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///nix/store/4xrbb1b3jm99sqcx19rdpxz9y5vxqz8c-fish-3.7.1-doc/share/doc/fish/index.html" added="2024-11-28T14:22:25.348000Z" modified="2024-11-28T14:22:25.348000Z" visited="2024-11-28T14:22:25.348000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="firefox --name firefox %u" modified="2024-11-28T14:22:25.348000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://duckduckgo.com/?q=metasploit&amp;t=kde" added="2024-11-28T15:18:36.745000Z" modified="2024-11-28T15:18:36.745000Z" visited="2024-11-28T15:18:36.745000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="firefox --name firefox %u" modified="2024-11-28T15:18:36.745000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/idk/Downloads/burpsuite_pro_linux_v2024_10_2.sh" added="2024-11-28T16:08:04.271164Z" modified="2024-11-28T16:08:04.271176Z" visited="2024-11-28T16:08:04.271167Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-11-28T16:08:04.271170Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/idk/Desktop/clean.jar" added="2024-11-28T16:33:47.358633Z" modified="2024-11-28T16:33:47.358646Z" visited="2024-11-28T16:33:47.358635Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/java-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="'sublime_text %u'" modified="2024-11-28T16:33:47.358639Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  
+  <bookmark href="file:///tmp/package.nix" added="2024-12-02T15:01:40.657718Z" modified="2024-12-02T15:01:40.657727Z" visited="2024-12-02T15:01:40.657720Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="'sublime_text %u'" modified="2024-12-02T15:01:40.657723Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/idk/Downloads/cacert.der" added="2024-12-03T09:17:26.940598Z" modified="2024-12-03T09:17:39.999153Z" visited="2024-12-03T09:17:26.940601Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-x509-ca-cert"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-12-03T09:17:39.999147Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/idk/Downloads/nix-wallpaper-binary-black.png" added="2024-12-03T09:26:52.319440Z" modified="2024-12-03T09:26:55.783000Z" visited="2024-12-03T09:26:55.783000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-12-03T09:26:52.319445Z" count="1"/>
+        <bookmark:application name="" exec="dolphin %f" modified="2024-12-03T09:26:55.783000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:/etc/nixos/hosts" added="2024-12-03T11:11:25.136000Z" modified="2024-12-03T11:11:25.136000Z" visited="2024-12-03T11:11:25.136000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %u" modified="2024-12-03T11:11:25.136000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:/etc/nixos/modules" added="2024-12-03T11:11:25.171000Z" modified="2024-12-03T11:11:25.171000Z" visited="2024-12-03T11:11:25.171000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %u" modified="2024-12-03T11:11:25.171000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:/etc/nixos/flake.lock" added="2024-12-03T11:11:25.189000Z" modified="2024-12-03T11:11:25.189000Z" visited="2024-12-03T11:11:25.189000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %u" modified="2024-12-03T11:11:25.189000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:/etc/nixos/flake.nix" added="2024-12-03T11:11:25.210000Z" modified="2024-12-03T11:11:25.210000Z" visited="2024-12-03T11:11:25.210000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %u" modified="2024-12-03T11:11:25.210000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="722">
+  <name>Otto</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>jomada</author>
+  <homepage>https://store.kde.org/p/1360125</homepage>
+  <licence></licence>
+  <version>2.4</version>
+  <rating>83</rating>
+  <downloads>4370</downloads>
+  <installedfile>/home/idk/.local/share/plasma/look-and-feel/Otto/</installedfile>
+  <id>1360125</id>
+  <releasedate>2024-11-16</releasedate>
+  <summary>Look-and-Feel theme.&lt;br />
+Dark plasma theme, with orange and yellow gradient tones. A menu bar darker than the application menu and the rest of the widgets, rounded at its edges.&lt;br />
+&lt;br />
+Otto Plasma theme: https://store.kde.org/p/1358262/&lt;br />
+&lt;br />
+Otto Konsole color schemes:...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/43/73/13/1360125/global-logo.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/43/73/13/1360125/global-logo.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3Mjk5NTE3OTUiLCJvIjoiMSIsInMiOiIzZTc1NjYzYjE2MTM5NzIwZmU3NTI0ODYzMzQ2Y2JlNmYyYjhkOTZkMDk1MDdmYTkwNWRjYTcyNzgwMjlhNjcxMjlkNDViYjljNDljYWNmNmFlNTNhMTc1YTQ2NTg2Mjg5OTdiZTQ5MGU2YzU3OThkMTM3NjIwNTYxYjFlNGViNSIsInQiOjE3MzI3MDY2NDMsInN0ZnAiOm51bGwsInN0aXAiOiIyMTcuMTMzLjYuMTg3In0.Zj88Jow3SSFc7DrRxegmPJPL7o-hPzlaBQu3dG72LOg/Otto.tar.gz</payload>
+  <tags>plasma##majorversion=6,plasma,theme,unix,original-product,gplv3,global-theme,kde,linux</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

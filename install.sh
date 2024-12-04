@@ -38,6 +38,7 @@ echo "-----"
 installusername=$(echo $USER)
 sed -i "s/\bidk\b/$installusername/g" ~/EtherNix/hosts/plasma/configuration.nix
 sed -i "s/\bidk\b/$installusername/g" ~/EtherNix/hosts/hyprland/configuration.nix
+sed -i "s/\bbruno\b/$installusername/g" ~/EtherNix/config/plasma-org.kde.plasma.desktop-appletsrc
 
 
 echo "Generating The Hardware Configuration"
@@ -45,11 +46,18 @@ sudo nixos-generate-config --show-hardware-config > ~/EtherNix/hosts/plasma/hard
 sudo nixos-generate-config --show-hardware-config > ~/EtherNix/hosts/hyprland/hardware-configuration.nix
 
 echo "-----"
+echo "Moving and Clearing configuration files"
 rm ~/EtherNix/install.sh
 sudo rm -rd ~/.config/*
 sudo rm -rd /etc/nixos/*
+sudo rm -rd ~/.local/*
+sudo rm -rd ~/.mozilla/*
 mv ~/EtherNix/config/* ~/.config/
+mv ~/EtherNix/local/* ~/.local/
+mv ~/EtherNix/mozilla/* ~/.mozilla/
+chmod +x ~/EtherNix/.config/scripts/*
 sudo rm -rd ~/EtherNix/config
+
 mkdir ~/.BurpSuite
 mv ~/EtherNix/BurpSuite/* ~/.BurpSuite
 sudo rm -rd ~/EtherNix/BurpSuite
