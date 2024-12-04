@@ -36,9 +36,8 @@ git clone https://github.com/DinoSandro/EtherNix.git
 echo "-----"
 
 installusername=$(echo $USER)
-sed -i "/^\s*username[[:space:]]*=[[:space:]]*\"/s/\"\(.*\)\"/\"$installusername\"/" ~/EtherNix/flake.nix
-
-echo "-----"
+sed -i "s/\bidk\b/$installusername/g" ~/EtherNix/hosts/plasma/configuration.nix
+sed -i "s/\bidk\b/$installusername/g" ~/EtherNix/hosts/hyprland/configuration.nix
 
 
 echo "Generating The Hardware Configuration"
@@ -63,4 +62,4 @@ echo "-----"
 
 sudo nixos-rebuild switch --flake /etc/nixos/#${distro}
 sudo rm -rd ~/EtherNix
-#sudo reboot now
+sudo reboot now
