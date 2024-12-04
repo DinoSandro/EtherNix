@@ -48,6 +48,7 @@ sudo nixos-generate-config --show-hardware-config > ~/EtherNix/hosts/hyprland/ha
 echo "-----"
 echo "Moving and Clearing configuration files"
 rm ~/EtherNix/install.sh
+mkdir ~/.mozilla
 sudo rm -rd ~/.config/*
 sudo rm -rd /etc/nixos/*
 sudo rm -rd ~/.local/*
