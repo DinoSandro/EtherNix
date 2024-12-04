@@ -50,8 +50,10 @@ rm ~/EtherNix/install.sh
 sudo rm -rd ~/.config/*
 sudo rm -rd /etc/nixos/*
 mv ~/EtherNix/config/* ~/.config/
+sudo rm -rd ~/EtherNix/config
 mkdir ~/.BurpSuite
 mv ~/EtherNix/BurpSuite/* ~/.BurpSuite
+sudo rm -rd ~/EtherNix/BurpSuite
 sudo mv ~/EtherNix/* /etc/nixos/
 sudo rm -rd ~/EtherNix
 
