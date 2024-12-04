@@ -30,9 +30,9 @@ fi
 
 echo "-----"
 
-echo "Cloning & Entering EtherNix Repository"
+echo "Cloning EtherNix Repository"
 git clone https://github.com/DinoSandro/EtherNix.git
-cd EtherNix
+
 echo "-----"
 
 installusername=$(echo $USER)
