@@ -56,7 +56,7 @@ sudo rm -rd ~/.mozilla/*
 mv ~/EtherNix/config/* ~/.config/
 mv ~/EtherNix/local/* ~/.local/
 mv ~/EtherNix/mozilla/* ~/.mozilla/
-chmod +x ~/EtherNix/.config/scripts/*
+chmod +x ~/.config/scripts/*
 sudo rm -rd ~/EtherNix/config
 
 mkdir ~/.BurpSuite
