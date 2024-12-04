@@ -42,8 +42,8 @@ echo "-----"
 
 
 echo "Generating The Hardware Configuration"
-sudo nixos-generate-config --show-hardware-config > ./hosts/plasma/hardware-configuration.nix
-sudo nixos-generate-config --show-hardware-config > ./hosts/hyprland/hardware-configuration.nix
+sudo nixos-generate-config --show-hardware-config > ~/EtherNix/hosts/plasma/hardware-configuration.nix
+sudo nixos-generate-config --show-hardware-config > ~/EtherNix/hosts/hyprland/hardware-configuration.nix
 
 echo "-----"
 rm EtherNix/install.sh
