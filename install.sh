@@ -53,7 +53,7 @@ mv ~/EtherNix/config/* ~/.config/
 mkdir ~/.BurpSuite
 mv ~/EtherNix/BurpSuite/* ~/.BurpSuite
 sudo mv ~/EtherNix/* /etc/nixos/
-
+sudo rm -rd ~/EtherNix
 
 echo "Setting Required Nix Settings Then Going To Install"
 NIX_CONFIG="experimental-features = nix-command flakes"
